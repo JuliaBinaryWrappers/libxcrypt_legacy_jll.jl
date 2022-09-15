@@ -1,0 +1,56 @@
+[[libxcrypt_legacy]]
+arch = "aarch64"
+git-tree-sha1 = "501fff984eebe002ecc235785a009a86feec982c"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt_legacy.download]]
+    sha256 = "a6e132d3276a0c5354082b35f7d91cc268d161be27f35db6e0df9e0a5df0d510"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_legacy_jll.jl/releases/download/libxcrypt_legacy-v4.4.28+0/libxcrypt_legacy.v4.4.28.aarch64-linux-gnu.tar.gz"
+[[libxcrypt_legacy]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "839039a3f8cc9ddfb46972f973f085cf37ea5fec"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt_legacy.download]]
+    sha256 = "81e25ec192b8f2999f381dd38cb931b4b2ca362fbe124e0ebea899f9826e0350"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_legacy_jll.jl/releases/download/libxcrypt_legacy-v4.4.28+0/libxcrypt_legacy.v4.4.28.armv6l-linux-gnueabihf.tar.gz"
+[[libxcrypt_legacy]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9d0bc54cd092142d234b02c4af08bdac4b11284d"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt_legacy.download]]
+    sha256 = "9037c6b509282e049324f0a6a27f12740b6a26974ce22e15e14a6f06636590ae"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_legacy_jll.jl/releases/download/libxcrypt_legacy-v4.4.28+0/libxcrypt_legacy.v4.4.28.armv7l-linux-gnueabihf.tar.gz"
+[[libxcrypt_legacy]]
+arch = "i686"
+git-tree-sha1 = "8191cfdb4432110dc292cd6c71a7baa363594063"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt_legacy.download]]
+    sha256 = "30301a1406b9b36dbc5a119db5fc1e146580788a90e513331d8d0e4135277a0a"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_legacy_jll.jl/releases/download/libxcrypt_legacy-v4.4.28+0/libxcrypt_legacy.v4.4.28.i686-linux-gnu.tar.gz"
+[[libxcrypt_legacy]]
+arch = "powerpc64le"
+git-tree-sha1 = "d999917190311a1c14d3a43bf676eb54ce4ab4f3"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt_legacy.download]]
+    sha256 = "dbc0075d7cd600582bf7155f465cc8d765062caae8c3b671f16574a91da82fbc"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_legacy_jll.jl/releases/download/libxcrypt_legacy-v4.4.28+0/libxcrypt_legacy.v4.4.28.powerpc64le-linux-gnu.tar.gz"
+[[libxcrypt_legacy]]
+arch = "x86_64"
+git-tree-sha1 = "d77946f53a72725f0d36b9477988b7a44737aa73"
+libc = "glibc"
+os = "linux"
+
+    [[libxcrypt_legacy.download]]
+    sha256 = "11dfdfedba8132705ebe52326db3ad86fad79224f258906573e0aa5578b07516"
+    url = "https://github.com/JuliaBinaryWrappers/libxcrypt_legacy_jll.jl/releases/download/libxcrypt_legacy-v4.4.28+0/libxcrypt_legacy.v4.4.28.x86_64-linux-gnu.tar.gz"
